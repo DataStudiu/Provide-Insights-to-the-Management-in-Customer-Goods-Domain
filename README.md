@@ -1,0 +1,1 @@
+# Provide-Insights-to-the-Management-in-Customer-Goods-Domain
