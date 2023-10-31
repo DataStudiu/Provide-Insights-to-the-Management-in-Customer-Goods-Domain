@@ -1,5 +1,6 @@
 # Provide-Insights-to-the-Management-in-Customer-Goods-Domain
-Problem Statement :
+PROBLEM STATEMENT :
+
 Atliq Hardwares (imaginary company) is one of the leading computer hardware
 producers in India and well expanded in other countries too.
 
@@ -8,7 +9,11 @@ They want to expand their data analytics team by adding several junior data anal
 Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills.
 Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-Task :
+TASK :
+MY TASK IS TO PROVIDE THE ANSWERS OF 10 QUESTIONS USING SQL QUERIES WHICH ARE FURTHER USE BY MANAGEMENT TO MAKE DATA INFORMED DECISION.
+
+ABOUT DATA :
+
 This file provides a comprehensive overview of the tables found in the 'gdb023' (atliq_hardware_db) database. It includes information for six main tables:
 
 1. dim_customer: contains customer-related data
